@@ -4,12 +4,12 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1>About this app</h1>
+	<h1>Sobre tu vida a partir de hoy</h1>
 
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
-	</p>
+		Este es el <a href="https://kit.svelte.dev">infierno</a>. Puedes pensar en subsistir si toleras el sufrimiento constante y los olores nauseabundos por toda la eternidad.
+
+	<p>Si no pertenecieras aquí, Dios te habría concedido control sobre tus sentidos.
 
 	<pre>npm create svelte@latest</pre>
 
